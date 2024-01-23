@@ -18,6 +18,7 @@ class Asset extends Model
         'tag', 
         'serial_number',
         'model_id',
+        'assigned_to',
         'status',
     ];
 
